@@ -1,6 +1,6 @@
 # 国会議員の発言傾向可視化アプリ
 
-![demo](https://github.com/yut0takagi/kokkai-analytics/blob/main/src/output.gif)
+![demo](https://github.com/yut0takagi/kokkai-analytics/raw/main/src/output.gif)
 
 このアプリは、国会会議録APIを活用して特定の議員の発言を取得し、その傾向をWordCloudで可視化するStreamlitベースのWebアプリです。
 
